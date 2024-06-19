@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Row : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public Tile[] tiles;
     void Start()
     {
         
